@@ -1,3 +1,3 @@
 # RayTracing
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/oshrit2019/RayTracing/blob/master/Final%20test.jpg)
